@@ -1,0 +1,14 @@
+{
+    "name": "rafab/sprint1_7_2",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafa Bello",
+            "email": "rafabp986@outlook.com"
+        }
+    ]
+}
